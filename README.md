@@ -1,4 +1,4 @@
-# 😺😺
+# Hi, I am Fortune😺😺
 ### MY BLOG : https://sinyoung3016.github.io/Fortune/Fortune/
 ### MY VELOG : https://velog.io/@sinyoung3016
 
