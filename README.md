@@ -1,4 +1,4 @@
-💙Welcome, Fortune💙
+### 💙Welcome, Fortune💙
 
 [timeline](https://sinyoung3016.github.io/Fortune/)
 <img src="https://img.shields.io/badge/velog-00c7b7?style=flat&logo=velog&logoColor=white"/>https://velog.io/@sinyoung3016<span>
@@ -12,8 +12,7 @@
 - Computer Science and Engineering
 
 # 🤞 Tech Stack
-<br>
-Programming Language :
+__Programming Language :__
   <span><img src="https://img.shields.io/badge/Java-4c7491?style=flat-square&logo=spring&logoColor=white"/></span> 
   <span><img src="https://img.shields.io/badge/Python-f7dd68?style=flat-square&logo=spring&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span>
