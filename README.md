@@ -3,8 +3,9 @@
 [timeline](https://sinyoung3016.github.io/Fortune/)
 <img src="https://img.shields.io/badge/velog-00c7b7?style=flat&logo=velog&logoColor=white"/>https://velog.io/@sinyoung3016<span>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyoung3016&show_icons=true&line_height=24&hide=stars&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinyoung3016&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyoung3016&show_icons=true&line_height=24&hide=stars&theme=buefy)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinyoung3016&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🤞 About Me
 - Bok Sin Young
