@@ -16,8 +16,8 @@
 __Programming Language :__
   <span><img src="https://img.shields.io/badge/Java-4c7491?style=flat-square&logo=java&logoColor=white"/></span> 
   <span><img src="https://img.shields.io/badge/Python-f7dd68?style=flat-square&logo=python&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/TypeScript-0076c6?style=flat-square&logo=typescript&logoColor=white"/></span>
+  <!--><span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span><--!>
+  <!--><span><img src="https://img.shields.io/badge/TypeScript-0076c6?style=flat-square&logo=typescript&logoColor=white"/></span><--!>
   <br>
 __Front-end :__
   <span><img src="https://img.shields.io/badge/HTML-e8642c?style=flat-square&logo=html5&logoColor=white"/></span>
