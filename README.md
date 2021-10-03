@@ -7,9 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinyoung3016&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🤞 About Me
-Bok Sin Young
-Chungnam National University
-Computer Science and Engineering
+🍀 Bok Sin Young
+🍀 Chungnam National University
+🍀 Computer Science and Engineering
 
 # 🤞 Tech Stack
 Programming Language :
