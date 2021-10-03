@@ -10,6 +10,7 @@
 - Bok Sin Young
 - Chungnam National University
 - Computer Science and Engineering
+- sinyoungbok99@gmail.com
 
 # 🤞 Tech Stack
 __Programming Language :__
