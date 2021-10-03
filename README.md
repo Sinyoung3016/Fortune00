@@ -1,7 +1,7 @@
 ### 💙Welcome, Fortune💙
 
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>[timeline](https://sinyoung3016.github.io/Fortune/)</span>
-<span><img src="https://img.shields.io/badge/velog-00c7b7?style=flat-square&logo=velog&logoColor=white"/>[velog](https://velog.io/@sinyoung3016)</span>
+🍎[timeline](https://sinyoung3016.github.io/Fortune/)
+🍎[velog](https://velog.io/@sinyoung3016)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyoung3016&show_icons=true&line_height=24&hide=stars&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinyoung3016&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
