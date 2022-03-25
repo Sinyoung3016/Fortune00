@@ -1,14 +1,9 @@
-### 💙Welcome, Fortune💙
+# 💙Welcome, This is Fortune💙
 
-🍎[Timeline](https://sinyoung3016.github.io/Fortune/)
-🍎[Blog](https://sinyoung3016.tistory.com/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinyoung3016&show_icons=true&line_height=24&hide=stars&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinyoung3016&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[TIMELINE](https://sinyoung3016.github.io/Fortune/) | [BLOG](https://sinyoung3016.tistory.com/) | [LINKEDIN](https://www.linkedin.com/in/sin-young-bok-875bba190/)
 
 # 🤞 About Me
-- Bok Sin Young
+- Sin-Young Bok
 - Chungnam National University
 - Computer Science and Engineering
 - sinyoungbok99@gmail.com
-
